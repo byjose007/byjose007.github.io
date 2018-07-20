@@ -16,3 +16,9 @@ Para levantar el proyecto, es necesario descargar e instalar las siguientes herr
   ```
   sudo apt-get install -y nodejs
 ```
+
+- GIT 		
+  Windows: https://git-scm.com/downloads
+  
+  Linux:  ``` apt-get install git
+  ```
