@@ -1,14 +1,18 @@
 https://byjose007.github.io/
 
-# titulo
+## Guía de installación y ejecución
 
-dadsasdd
-- daasd
+Para levantar el proyecto, es necesario descargar e instalar las siguientes herramientas:
 
-  - dasda
-  -- dsds
+- NODE JS 10.X (Incluye NPM) 
 
+  Windows: https://nodejs.org/es/download/
+  
+Linux: 
+ 
 ```
-dsdsd
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 ```
-## sub
+```
+sudo apt-get install -y nodejs
+```
