@@ -8,17 +8,30 @@ Para levantar el proyecto, es necesario descargar e instalar las siguientes herr
 
   Windows: https://nodejs.org/es/download/
   
-  Linux: 
-
+  Linux:    
   ```
   curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
   ```
   ```
   sudo apt-get install -y nodejs
-```
+  ```
+
 
 - GIT 		
   Windows: https://git-scm.com/downloads
   
-  Linux:  ``` apt-get install git
+  Linux:  
+  ``` 
+  apt-get install git
   ```
+
+- CLI
+
+   windows && Linux: 
+   ```
+   npm install -g @angular/cli 
+    ```
+### Ejecución 
+  windows && Linux: 
+   ```
+   npm serve
